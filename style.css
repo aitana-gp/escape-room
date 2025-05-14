@@ -1,0 +1,23 @@
+body {
+    background-color: deepskyblue;
+    font-family: Georgia, 'Times New Roman';
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    padding-top: 100px;
+    color: midnightblue;
+}
+
+h2 {
+    font-size: 50px;
+    padding-top: 105px;
+    color: darkviolet;
+}
+
+h3 {
+    font-size: 20px;
+    padding-top: 110px;
+    color: brown;
+}
